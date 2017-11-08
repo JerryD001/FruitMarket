@@ -1,4 +1,4 @@
-package com.jerry.wx;
+package com.jerry.market;
 
 import org.junit.Test;
 

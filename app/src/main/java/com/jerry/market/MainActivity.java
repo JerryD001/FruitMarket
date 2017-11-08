@@ -1,4 +1,4 @@
-package com.jerry.wx;
+package com.jerry.market;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

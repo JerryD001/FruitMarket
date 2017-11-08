@@ -1,4 +1,4 @@
-package com.jerry.wx;
+package com.jerry.market;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
